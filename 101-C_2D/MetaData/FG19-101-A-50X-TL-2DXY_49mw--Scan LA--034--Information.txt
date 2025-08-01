@@ -1,0 +1,45 @@
+General:
+System ID:	100-1200-2200
+Start Time:	5:45:16 PM
+Start Date:	Tuesday, July 1, 2025
+Duration:	0h 2m 3s
+User Name:	Witec
+Sample Name:	FG19-101-A-50X-TL-2DXZ_49mw
+Configuration:	Raman CCD1
+
+Large Scale Image Scan (Area):
+Points per Line:	14
+Lines per Image:	14
+Scan Width [µm]:	7.000
+Scan Height [µm]:	7.000
+Scan Origin X [µm]:	739.100
+Scan Origin Y [µm]:	-994.400
+Scan Origin Z [µm]:	-3.500
+Gamma [°]:	0.000
+Scan Speed [s/Line]:	7.472
+Integration Time [s]:	0.5
+
+UHTS600S_VIS:
+Excitation Wavelength [nm]:	532.046
+Laser Power [mW]:	49.312
+Grating:	G1: 300 g/mm BLZ 500.00 nm
+Center Wavelength [nm]:	608.071
+Spectral Center [rel. 1/cm]:	2349.908
+
+DU401_BVF:
+Serial Number:	27499
+Readout Mode:	FVB (1-127)
+Vertical Shift Speed [µs]:	16.25
+Horizontal Shift Speed [MHz]:	0.033
+Preamplifier Gain:	1.00
+Cycle Time [sec]:	0.53371
+Sensor Temperature [°C]:	-59
+
+Objective:
+Objective Name:	Zeiss LD EC Epiplan-Neofluar Dic 50x / 0.55
+Objective Magnification:	50.0
+
+Scan Table:
+Position X [µm]:	0.000
+Position Y [µm]:	0.000
+
